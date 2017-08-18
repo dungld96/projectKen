@@ -108,4 +108,4 @@ var tool = new RegistrationTool();
 
 tool.init();
 
-tool.registerSubjects(["INT3207", "INT3507 5", "PES1025 11", "INT3310 1"]);
+tool.registerSubjects(["MNS1052 2", "INT3507 5"]);
